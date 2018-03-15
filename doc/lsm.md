@@ -1,5 +1,8 @@
 # LSM
 
+To see the diff: https://github.com/wenhuizhang/LSM/commit/904f3c7e371f71a4d4df06b2fffc32706bd2dd90
+
+
 LSM code for hooking and mechanisms are located at:
 ```
 
