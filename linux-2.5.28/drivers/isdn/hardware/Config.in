@@ -1,5 +1,0 @@
-#
-# ISDN hardware drivers
-#
-
-source drivers/isdn/hardware/avm/Config.in
