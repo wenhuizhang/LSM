@@ -8,6 +8,9 @@ $ diff -ur /Users/wenhuizhang/Downloads/linux-2.5.28 /Users/wenhuizhang/Download
 $ sudo patch -p0 -d /Users/wenhuizhang/Downloads/linux-2.5.28 < 29.patch 
 ```
 
+To see the diff: 
+https://github.com/wenhuizhang/LSM/commit/904f3c7e371f71a4d4df06b2fffc32706bd2dd90
+
 #### Memo
 ```
 2.5.29 released July 27, 2002:
